@@ -1,0 +1,6 @@
+{
+  "name": "SRE & Platform Engineering Portal",
+  "description": "An interactive, high-fidelity companion portal for the 5-Month DevOps to SRE & AI-Integrated Platform Engineer study roadmap, complete with progress tracking, active-recall quizzes, interactive labs, and an AI mentor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
